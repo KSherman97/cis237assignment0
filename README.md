@@ -2,20 +2,15 @@
 ## Due: 9-13-2016
 
 ## Author
+Edited: Kyle Sherman
 
 ## Description
 
-You are to follow the below steps to practice using GIT. This will help prepare you for submitting all of your assignments for this class.
+With .minttyrc you're able to adjust the colors of the terminal window. 
+I have customized the colors to my liking and plan to update over time.
 
-1. Fork this project so that you have your own version.
-
-2. Update .minttyrc with some sort of color changes. .minttyrc is a hidden file, so you may need to turn on hidden files for explorer, or use the -a flag from the terminal to see the file. I do not care what you change the colors to. Just change them so they are different.
-
-3. Update README.md with the missing information for the following sections: (Just because you didn't need any outside resources, or have any problems with this does not mean you should leave the section blank. Put the word 'None' if there were/are none. Otherwise I won't know whether you filled out the README completely or forgot to do some of it.)
-
-  1. Author
-  2. Outside Resources Used
-  3. Known Problems, Issues, And/Or Errors in the Program
+The purpose of this project is to allow my to practice working with git in order 
+to prepare me for both school and real life projects.
 
 4. Add/Stage the changes you made.
 
@@ -25,11 +20,11 @@ You are to follow the below steps to practice using GIT. This will help prepare 
 
 7. Make a pull request using GitHub's web interface.
 
-#Notes
-If you need some help on how to write proper Markdown for the README file, you can refer to this cheat sheet:
-
-[Markdown Cheat Sheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
-
 ## Outside Resources Used
+[Markdown Cheat Sheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet) used for Markdown reference.
+
+[Color Codes](http://htmlcolorcodes.com/) used to help me pick out colors to use.
 
 ## Known Problems, Issues, And/Or Errors in the Program
+- No known issues. 
+- Tested on Windows only.
