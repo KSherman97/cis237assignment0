@@ -12,14 +12,6 @@ I have customized the colors to my liking and plan to update over time.
 The purpose of this project is to allow my to practice working with git in order 
 to prepare me for both school and real life projects.
 
-4. Add/Stage the changes you made.
-
-5. Commit the changes you made.
-
-6. Push the changes you made up to GitHub.
-
-7. Make a pull request using GitHub's web interface.
-
 ## Outside Resources Used
 [Markdown Cheat Sheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet) used for Markdown reference.
 
